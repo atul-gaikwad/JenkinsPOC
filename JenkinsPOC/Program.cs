@@ -11,7 +11,8 @@ namespace JenkinsPOC
         static void Main(string[] args)
         {
             Console.WriteLine("Hi");
-               Console.WriteLine("Test");
+            Console.WriteLine("Test");
+            Console.WriteLine("Test");
         }
     }
 }
